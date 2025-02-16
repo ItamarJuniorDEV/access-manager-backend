@@ -12,4 +12,4 @@ postgresql -> Banco de dados relacional
 
 ## Modelo ER
 
-![App Screenshot](https://s2.static.brasilescola.uol.com.br/be/2022/05/via-lactea.jpg)
+![ER](https://github.com/user-attachments/assets/ccdbf86d-8dc3-42e9-8fff-212c6b7e0457)
